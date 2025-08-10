@@ -1,3 +1,4 @@
 # Git-Github-practical
-Learning the basic standard of git and github
-Auther- Adi
+Learning the basic standard of git and github.
+<br>
+Author- Adi
